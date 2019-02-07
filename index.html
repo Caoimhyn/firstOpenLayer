@@ -1,0 +1,56 @@
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <title> Sites surveillés </title>
+    <script src="ext-3.4.1/adapter/ext/ext-base.js" type="text/javascript"></script>
+    <script src="ext-3.4.1/ext-all.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="ext-3.4.1/resources/css/ext-all.css"/>
+    <script src="OpenLayers/OpenLayers.js" type="text/javascript"></script>
+    <script src="GeoExt/lib/GeoExt.js" type="text/javascript"></script>
+    <script type="text/javascript" src="ext-3.4.1/examples/ux/CheckColumn.js"></script>
+    <script type="text/javascript" src=loader.js></script>
+
+    <style type="text/css">
+        #controlToggle li {
+            list-style: none;
+        }
+
+        p {
+            width: 512px;
+        }
+
+        #OpenLayers_Control_Zoom_5 {
+            display: none;
+        }
+
+        /* avoid pink tiles */
+        .olImageLoadError {
+            background-color: transparent !important;
+        }
+
+    </style>
+    <script src="loader.js" type="text/javascript"></script>
+</head>
+<body onload="init()">
+
+<div style="height: 70%;">
+    <div id="layerTree" style="float: left;margin: 0 auto;width: 20%; height: 100%;"></div>
+    <div id="gxmap" style="float: left;margin: 0 auto;width: 80%; height: 100%;"></div>
+</div>
+
+<div id="editor-grid" style="width: 100%; height: 20%; position: relative; top: 3.5em;">
+</div>
+
+<!-- the custom editor for the 'Light' column references the id="light" -->
+<select name="light" id="light" style="display: none;">
+    <option value="Shade">Shade</option>
+    <option value="Mostly Shady">Mostly Shady</option>
+    <option value="Sun or Shade">Sun or Shade</option>
+    <option value="Mostly Sunny">Mostly Sunny</option>
+    <option value="Sunny">Sunny</option>
+    <option value="NA">Sunny</option>
+</select>
+
+</body>
+</html>

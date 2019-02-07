@@ -1,0 +1,857 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.18218,
+          45.5949
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 1770,
+        "name": "Col d'Arclusaz",
+        "light": "Mostly Sunny",
+        "availability": "04/01/2016",
+        "sensible": false,
+        "price": 90.13,
+        "infos": "Cette balade vous emmene au col de l'Arclusaz (prononcez 'Arcluse'), en traversant les alpages"
+      },
+      "id": 472
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.27827,
+          45.6769
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 1831,
+        "name": "Pointe de C\u00f4te Favre",
+        "light": "Shade",
+        "availability": "02/21/2006",
+        "sensible": true,
+        "price": 3.56,
+        "infos": "Initialement partis pour la pointe de Chaurionde (2173m) que nous n'avons pu faire pour cause de risque trop important d'avalanches, nous nous sommes rabattus sur ce sommet très panoramique. C'est néanmoins un joli sommet et une bonne alternative en cas de conditions douteuses."
+      },
+      "id": 458
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.47122,
+          46.0062
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 2364,
+        "name": "Pointe du Midi",
+        "light": "Sunny",
+        "availability": "12/27/2018",
+        "sensible": true,
+        "price": 46.00,
+        "infos": "Le versant S de la chaîne du Bargy s'articule en nombreuses parois ensoleillées qui ont attiré très tôt les grimpeurs. Les dalles compactes ont longtemps repoussé les pionniers vers les lignes de faiblesse de la montagne : couloirs, cheminées à partager avec les bouquetins, véritables maîtres de ce dédale."
+      },
+      "id": 487
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82156068193,
+          46.3129835428
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 1856,
+        "name": "Col d'Outanne",
+        "light": "Mostly Shady",
+        "availability": "01/04/2006",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "L'ascension du Linleu est une courte randonnée intéressante à retenir pour son point de vue exceptionnel sur les Cornettes de Bise et les sommets du Chablais."
+      },
+      "id": 5700
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.84989241629,
+          46.136626095
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 2375,
+        "name": "Col de Comba Mornay",
+        "light": "Shade",
+        "availability": "07/12/2010",
+        "sensible": true,
+        "price": 9.13,
+        "infos": "site"
+      },
+      "id": 5644
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62,
+          46.187778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 2000,
+        "name": "La Pointe",
+        "light": "Sunny",
+        "availability": "09/14/2012",
+        "sensible": true,
+        "price": 9.13,
+        "infos": "site"
+      },
+      "id": 5710
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9134,
+          44.93331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 2607,
+        "name": "Le Coiro",
+        "light": "Mostly Shady",
+        "availability": "03/29/2007",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "site"
+      },
+      "id": 496
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03219,
+          45.7204
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 1451,
+        "name": "D\u00f4me de la Cochette",
+        "light": "Shade",
+        "availability": "05/21/2009",
+        "sensible": true,
+        "price": 9.13,
+        "infos": "site"
+      },
+      "id": 322
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23048,
+          45.6324
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 2197,
+        "name": "Mont P\u00e9cloz",
+        "light": "Mostly Sunny",
+        "availability": "02/21/2006",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "site"
+      },
+      "id": 515
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1962,
+          45.6927
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°1",
+        "light": "Sun or Shade",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      },
+      "id": 601
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6300011,
+          -0.48
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°2",
+        "light": "Shade",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7700005,
+          0.28
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°3",
+        "light": "Sun or Shade",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2700005,
+          -0.37
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°4",
+        "light": "Sunny",
+        "availability": "01/22/2019",
+        "sensible": true,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7799988,
+          -0.68
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°5",
+        "light": "NA",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75,
+          -0.1
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°6",
+        "light": "NA",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9799995,
+          1
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°7",
+        "light": "Mostly Sunny",
+        "availability": "01/22/2019",
+        "sensible": true,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9022,
+          -2.2694
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°8",
+        "light": "Mostly Sunny",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6,
+          3.1167
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°9",
+        "light": "Sun or Shade",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8300018,
+          -2.28
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°10",
+        "light": "Sun or Shade",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0999985,
+          -3.23
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°11",
+        "light": "Shade",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.8699989,
+          3.8299999
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°12",
+        "light": "Sunny",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9799995,
+          2.3199999
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°13",
+        "light": "Mostly Shadly",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8300018,
+          0.08
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°14",
+        "light": "Mostly Sunny",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6199989,
+          -4.0300002
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°15",
+        "light": "Sunny",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7444,
+          -3.95
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°16",
+        "light": "Sunny",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Site n°17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0499992,
+          3.53
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°17",
+        "light": "Mostly Sunny",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.75,
+          -1.3
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°18",
+        "light": "Shade",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0999985,
+          -0.27
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°19",
+        "light": "Sun or Shade",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8699989,
+          -1.1
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°20",
+        "light": "Sun or Shade",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.95,
+          -0.4167
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°21",
+        "light": "Sun or Shade",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5699997,
+          -3.4000001
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°22",
+        "light": "Mostly Sunny",
+        "availability": "01/22/2019",
+        "sensible": true,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0699997,
+          1.75
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°23",
+        "light": "Sun or Shade",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0999985,
+          -1.02
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°24",
+        "light": "Mostly Sunny",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3667,
+          0.0333
+        ]
+      },
+      "properties": {
+        "elevation": 2181,
+        "name": "Site n°25",
+        "light": "Mostly Shady",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4500008,
+          -0.5
+        ]
+      },
+      "properties": {
+        "elevation": 28,
+        "name": "Site n°26",
+        "light": "Sunny",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2667,
+          -1.5167
+        ]
+      },
+      "properties": {
+        "elevation": 81,
+        "name": "Site n°27",
+        "light": "Sunny",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "temperature_data.28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9258,
+          -1.3186
+        ]
+      },
+      "properties": {
+        "elevation": 21,
+        "name": "Site n°28",
+        "light": "Shade",
+        "availability": "01/22/2019",
+        "sensible": false,
+        "price": 9.13,
+        "infos": "Site de relevé de température météorologique du kenya"
+      }
+    },{
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[ -47.1962, 48.6927],[ -33.23048, 31.6324],[ -31.23048, 32.6324],[ -37.23048, 50.6324]]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": -12,
+        "name": "Zone de pêche",
+        "light": "NA",
+        "availability": "01/20/1991",
+        "sensible": false,
+        "price": 2095.54,
+        "infos": "Site Maritime"
+      },
+      "id": 701
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[ 2.1362, 49.10],[ 2.55048, 48.98],[ 2.56048, 48.70324],[ 2.23048, 48.5824],[2,48.80]]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 35,
+        "name": "Paris",
+        "light": "NA",
+        "availability": "05/09/2018",
+        "sensible": true,
+        "price": 0,
+        "infos": "Ville Lumière - forte concentrations humaine - point névralgique de la France"
+      },
+      "id":801
+    },{
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[ -47.1962, 48.6927],[ -33.23048, 31.6324],[ -31.23048, 32.6324],[ -37.23048, 50.6324]]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 0,
+        "name": "Zone de Manoeuvre",
+        "light": "NA",
+        "availability": "11/10/2001",
+        "sensible": false,
+        "price": 0.0,
+        "infos": "Site de manoeuvre d'entraiement des bateaux de pêches de Vannes"
+      },
+      "id": 701
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[ -77.17, 26.46],[ -71.32, 28.20],[ -71.7, 21.75]]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 0,
+        "name": "Triangle des Bermudes",
+        "light": "Shade",
+        "availability": "04/19/1759",
+        "sensible": true,
+        "price": 0,
+        "infos": "Zone de navigation dangeureuse - Forte zone magnétiques attention à la navigation dans ces eaux"
+      },
+      "id":801
+    },{
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[ 1.44, 42.60],[ 1.42, 42.65],[1.72,42.63],[1.80,42.57],[1.51, 42.41],[1.40, 42.49]]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": 0,
+        "name": "Andorre",
+        "light": "Sun",
+        "availability": "07/23/1997",
+        "sensible": false,
+        "price": 709.54,
+        "infos": "Site à TVA libre - Zone de contrôle de Douane _ <a href=\"file:\\\\C:\\Users\\kpotard\\Documents\\Projets\\test.txt\"> Fichier </a>"
+      },
+      "id": 701
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [[ 155, 24.10],[ 159, 20.98],[ 163,12],[ 163,6],[162, 0]]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "elevation": -11034,
+        "name": "Fosse des Mariannes",
+        "light": "Shade",
+        "availability": "02/28/2018",
+        "sensible": true,
+        "price": 0,
+        "infos": "La fosse des Mariannes est la fosse océanique la plus profonde actuellement connue et est l'endroit le plus profond de la croûte terrestre. Elle est située dans la partie nord-ouest de l'océan Pacifique."
+      },
+      "id":801
+    }
+  ]
+}
